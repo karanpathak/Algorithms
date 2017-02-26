@@ -1,2 +1,2 @@
 # Algorithms
-Code of useful Algorithms
+C++ Codes of useful Algorithms
